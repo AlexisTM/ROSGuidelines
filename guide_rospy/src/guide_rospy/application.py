@@ -14,6 +14,17 @@ class Application(object):
         super(Application, self).__init__()
         self.arg = arg
 
+    ##
+    ## @brief      Does a lot of fabulous work
+    ##
+    ## @param      self    The object
+    ## @param      msg     The input message of type ...
+    ## @param      source  The client origin
+    ##
+    ## @return     Returns the input message
+    ##
+    def my_fabulous_function(self, msg, source):    
+        return msg
+
     def main(self):
         pass
-
