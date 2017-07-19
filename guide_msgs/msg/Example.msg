@@ -1,0 +1,9 @@
+# Example.msg
+#
+# Example is a message to do ... 
+# 
+# data must be ...
+# description ...
+
+string data
+string description

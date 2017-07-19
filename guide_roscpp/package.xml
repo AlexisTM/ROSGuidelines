@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>guide_roscpp</name>
+  <version>0.0.0</version>
+  <description>The guide_roscpp package</description>
+  <maintainer email="alexis.paques@gmail.com">Alexis Paques</maintainer>
+  <license>MIT</license>
+  
+  <depend>catkin</depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>message_runtime</depend>
+
+  <export>
+  </export>
+</package>
